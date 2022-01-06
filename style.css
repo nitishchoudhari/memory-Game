@@ -1,0 +1,14 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+}
+
+.centering {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25vh;
+}
